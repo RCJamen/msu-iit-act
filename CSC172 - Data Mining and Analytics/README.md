@@ -1,5 +1,5 @@
 # CSC172: Data Mining
-
+Course Instructor: Orven Llantos, PhD
 ## Course Overview
 
 Data Mining is a branch of computer science that studies algorithms and computational paradigms to help computers:
